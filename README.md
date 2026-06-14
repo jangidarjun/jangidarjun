@@ -19,4 +19,4 @@ I am a data professional with over 5 years of experience specializing in scalabl
 * [LinkedIn](https://www.linkedin.com/in/arjunjangid/)
 * Email: ajangid1997@gmail.com
 
-📄 **[Click here to view and download my CV]([#](https://github.com/jangidarjun/jangidarjun/blob/main/ArjunJangidResume%20(1)%20(1)%20(1)%20(1).pdf))**
+📄 **[Click here to view and download my CV](https://github.com/jangidarjun/jangidarjun/blob/main/ArjunJangidResume%20(1)%20(1)%20(1)%20(1).pdf))**
